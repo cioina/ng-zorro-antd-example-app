@@ -13,6 +13,11 @@ app.get('/', function (req, res) {
     res.render('index.html');
 });
 
+//The 404 Route (ALWAYS Keep this as the last route)
+app.get('*', function (req, res) {
+    res.render('404.html');
+});
+
 // error handling
 app.use(function(err, req, res, next){
   console.error(err.stack);
