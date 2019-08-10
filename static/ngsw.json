@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563829655724,
+  "timestamp": 1565478583914,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,17 +8,17 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/3-es5.566cbc67995a4fa61243.js",
-        "/4-es2015.ec91922e13227163046e.js",
+        "/3-es5.8c910749e934d92b73ba.js",
+        "/4-es2015.00b3bb21776b77c97528.js",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.e4a91afc40de5c97136c.js",
-        "/main-es5.0dd9e8d8ce269e928f89.js",
-        "/polyfills-es2015.0cb0dedc0921a51d1c0a.js",
-        "/polyfills-es5.f2678d8564dedc7175f8.js",
-        "/runtime-es2015.c20b146c1aee81509778.js",
-        "/runtime-es5.ea4309df8942d11fc493.js",
-        "/styles.cbbbe5836092567a82a3.css"
+        "/main-es2015.3fe41e2179837936a9fe.js",
+        "/main-es5.6233ca0c0ddf9d2c641d.js",
+        "/polyfills-es2015.7cddf957d5eae244b8df.js",
+        "/polyfills-es5.c2fe6fd9d97d53b39d52.js",
+        "/runtime-es2015.811283d32a2bc03d970e.js",
+        "/runtime-es5.4464c49aca46abe8dd3a.js",
+        "/styles.141534b0060357d02b25.css"
       ],
       "patterns": []
     },
@@ -812,10 +812,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/3-es5.566cbc67995a4fa61243.js": "4ce4ff476c78efed0dab28d3973e1c87d06acd98",
-    "/4-es2015.ec91922e13227163046e.js": "251009e553de911e5319f06b92377d6d671eb338",
+    "/3-es5.8c910749e934d92b73ba.js": "6becf7b576dd2899dad65d20677612ac8234ca43",
+    "/4-es2015.00b3bb21776b77c97528.js": "ae469f0bf29a3034a1e25eaa6eb60a70def4c9b4",
     "/assets/animal/panda.svg": "bebd302cdc601e0ead3a6d2710acf8753f3d83b1",
-    "/assets/color.less": "d2a03a184319ccf490ce56dbeb2c07b0ecc4c6cd",
+    "/assets/color.less": "206fdc609e3c74142af69fbefd79c103ecf91d7f",
     "/assets/fill/account-book.svg": "3f5b84c02bfff85f606801a0cdceab6fb603a665",
     "/assets/fill/alert.svg": "13a08f61fccc01b694fb11614888dbff1da0b3ef",
     "/assets/fill/alipay-circle.svg": "fbe4c11c53d12b76ce4eb2c45435d72f8d739444",
@@ -1594,14 +1594,14 @@
     "/assets/twotone/wallet.svg": "450239fff59398e7314a5d7b1201a0ce1699ec9f",
     "/assets/twotone/warning.svg": "ee982b671787446c8b9fc65d3d23b88943dc52ac",
     "/favicon.ico": "9ff0a4dd7df4c5aea3cbc994f6163c6e6de292f4",
-    "/index.html": "17d1d9056e195bfd5046e137e83b5bf9b9812266",
-    "/main-es2015.e4a91afc40de5c97136c.js": "ba7a438aca3ebfcb9592d5b01582e95a1406ea8c",
-    "/main-es5.0dd9e8d8ce269e928f89.js": "c2674bf7f5bcd937c78ccd27c7b3e9a2d13e8e91",
-    "/polyfills-es2015.0cb0dedc0921a51d1c0a.js": "64f2bcc72c342af61ece45b9a1885862327191c7",
-    "/polyfills-es5.f2678d8564dedc7175f8.js": "054382bdd56d4427a0f6f7158be77277f61a9074",
-    "/runtime-es2015.c20b146c1aee81509778.js": "eb4f2b2f38271cbaccf7762b1bb3dfe31396bdc9",
-    "/runtime-es5.ea4309df8942d11fc493.js": "1f2ac9d2aa404d8066d85b35ba42497375b521a0",
-    "/styles.cbbbe5836092567a82a3.css": "4d4dd00dfb9fa06144ec3f811dec3dab8bc9e35d"
+    "/index.html": "6433313e83bab32729b41f3c491cb03676e6fad0",
+    "/main-es2015.3fe41e2179837936a9fe.js": "bd23e044096e1755e212cda65165228703b4bc2d",
+    "/main-es5.6233ca0c0ddf9d2c641d.js": "a7d3dea211dae1f20635037df267e053f3385384",
+    "/polyfills-es2015.7cddf957d5eae244b8df.js": "062b59b59a02f2f7508b0a95f98d6dbcb6b218d6",
+    "/polyfills-es5.c2fe6fd9d97d53b39d52.js": "4b0906a3da9f0095a2399af76faf1331d3c4d640",
+    "/runtime-es2015.811283d32a2bc03d970e.js": "4db8c2635ff641f968362f1f62231f8d1aa518be",
+    "/runtime-es5.4464c49aca46abe8dd3a.js": "eb1dd6e0c435b45906653223b92d74cb9b87532e",
+    "/styles.141534b0060357d02b25.css": "af60c46d574e5b9c0ae15782493afac31d613c66"
   },
   "navigationUrls": [
     {
